@@ -1,1 +1,0 @@
-{include file="findInclude:modules/$moduleID/templates/index.tpl"}
