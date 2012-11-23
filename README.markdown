@@ -19,6 +19,7 @@ e-Science" lead by SWITCH, the Swiss National Research and Education Network, an
 supported by funds from the State Secretariat for Education and Research.
 For further information please visit:
 
+* http://www.app.unisg.ch
 * http://iwi3hsg.github.com/Project_Uni-App/
 * http://www.switch.ch/de/aaa/projects/detail/UNISG.6
 * http://www.switch.ch/de/aaa/projects/detail/UNISG.5
