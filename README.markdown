@@ -45,3 +45,20 @@ Kurogo is a PHP application. It is currently qualified for use with
     * zlib, xml, dom, json, pdo, mbstring, LDAP, curl
 
 [Kurogo Mobile Web Documentation](http://kurogo.org/docs)
+
+## Credits
+
+Host Institute:
+* Institute of Information Management, University of St.Gallen (Prof. Dr. Andrea Back)
+
+Project Management: 
+* Thomas Sammer
+
+Developers:
+* Daniel Fiechter (Lead Library Module)
+* Florian Ickelsheimer (Lead Timetable Module and most other modules)
+* Fabio Camichel (Technology Evaluation)
+
+
+Project Mobile Uni-App is a fork of the Kurogo Framework:
+* Modo Labs, Inc.
