@@ -1,0 +1,290 @@
+﻿/* Vorhang */
+#darkcloud {
+	width:100%;
+	height:100%;
+	display:block;
+	
+	position:fixed;
+	left:0;
+	top:0;
+	
+	z-index:1000;
+}
+	#black {
+		width:100%;
+		height:100%;
+		background-color:#000;
+		opacity:0.4;
+		z-index:100;
+	}
+	#darkcloud div.loading {
+		position:fixed;
+		top:25%;
+		left:49%;
+		padding:10px;
+		background-color:#fff;
+		width:32px;
+		height:32px;
+		display:block;
+		margin-left:auto;
+		margin-right:auto;
+		z-index:101;
+		opacity:0.9;
+	}
+
+/* Suchergebnisse */
+a.extern {
+	color:#000 !important;
+}
+
+/* bookList.tpl */
+div.clear {
+	clear:right;
+	width:100%;
+	display:block;
+	height:1px;
+}
+div.bib {
+	background-color:#ccc;
+	margin:0px 10px;
+	padding:10px;
+}
+	
+/* Runde Ecken */
+.bibCon, .icon, input, div.selectcontainer div, #darkcloud div.loading, button {
+	border-radius-bottomleft: 10px; -o-border-radius-bottomleft: 10px; -icab-border-radius-bottomleft: 10px; -khtml-border-radius-bottomleft: 10px; -moz-border-radius-bottomleft: 10px; -webkit-border-radius-bottomleft: 10px; border-bottom-left-radius: 10px; -o-border-bottom-left-radius: 10px; -icab-border-bottom-left-radius: 10px; -khtml-border-bottom-left-radius: 10px; -moz-border-bottom-left-radius: 10px; -webkit-border-bottom-left-radius: 10px;
+	border-radius-bottomright: 10px; -o-border-radius-bottomright: 10px; -icab-border-radius-bottomright: 10px; -khtml-border-radius-bottomright: 10px; -moz-border-radius-bottomright: 10px; -webkit-border-radius-bottomright: 10px; border-bottom-right-radius: 10px; -o-border-bottom-right-radius: 10px; -icab-border-bottom-right-radius: 10px; -khtml-border-bottom-right-radius: 10px; -moz-border-bottom-right-radius: 10px; -webkit-border-bottom-right-radius: 10px;
+	border-radius-topright: 10px; -o-border-radius-topright: 10px; -icab-border-radius-topright: 10px; -khtml-border-radius-topright: 10px; -moz-border-radius-topright: 10px; -webkit-border-radius-topright: 10px; border-top-right-radius: 10px; -o-border-top-right-radius: 10px; -icab-border-top-right-radius: 10px; -khtml-border-top-right-radius: 10px; -moz-border-top-right-radius: 10px; -webkit-border-top-right-radius: 10px;
+	border-radius-topleft: 10px; -o-border-radius-topleft: 10px; -icab-border-radius-topleft: 10px; -khtml-border-radius-topleft: 10px; -moz-border-radius-topleft: 10px; -webkit-border-radius-topleft: 10px; border-top-left-radius: 10px; -o-border-top-left-radius: 10px; -icab-border-top-left-radius: 10px; -khtml-border-top-left-radius: 10px; -moz-border-top-left-radius: 10px; -webkit-border-top-left-radius: 10px;			
+}
+
+div.bib {
+	font-size:90%;
+	margin-bottom:10px;
+	padding-bottom:10px;
+	clear:both;
+}
+	div.bib a, a.icon {
+		background-color:#eee;
+	}
+	
+div.iconbox {
+	float:right;
+	display:inline-block;
+}
+	
+a.icon {
+	display:inline-block;
+	width:32px;
+	height:32px;
+	
+	padding:5px;
+	margin-right:10px;
+	margin-top:5px;
+	margin-bottom:0px;
+	background-repeat:no-repeat;
+	background-position:center;
+	
+	float:right;
+}
+	a.copy { background-image:url(/common/images/copy.png); }
+	a.order { background-image:url(/common/images/order.png); }
+	a.delete { 
+		background-image:url(/common/images/delete.png); 
+		width:16px;
+		height:16px;
+		margin-top:0px;
+	}
+
+
+div.volumeList div.bib {
+	background:none;
+	margin:0px;
+	padding:0px;
+	border:none;
+	margin-bottom:20px;
+	border-bottom:1px solid #00802F;
+	padding-bottom:10px;
+}
+
+
+.stati {
+	padding:2px 0px 0px 20px;
+	background-repeat:no-repeat;
+	background-position:0px 5px;
+	font-size:90%;
+	color:#000;
+	margin-top:5px;
+	float:left;
+	display:inline-block;
+}
+	/* Nummern aus z30-item-status, 00 in BibDataController definiert für ausgeliehen */
+	.booked, .s00 { background-image:url(/common/images/bullet_red.png); }
+	.presentbook, .s21, .s23, .s24 { background-image:url(/common/images/bullet_yellow.png); }
+	.free, .s15, .s16 { background-image:url(/common/images/bullet_green.png); }
+	
+	
+a.bibCon {
+	text-decoration:none;
+	margin:5px 0px;
+	background-color:#CCC;
+	padding:5px 10px;
+	display:block;
+	margin-right:10px;
+}
+	a.noarrow {
+		background-image:none;
+	}
+
+
+table.bibTable td {
+	background-color:#FFF;
+	padding-top:10px;
+	padding-bottom:10px;
+	border-bottom:1px solid #00802F;
+	font-size:90%;
+}
+table.bibTable {
+	font-size:90%;
+	width:100%;
+}
+
+	table.bibTable tr:nth-last-child(1) td {
+		border:none;
+	}
+
+	table.bibTable thead {
+		font-weight:bold;
+	}
+	
+	
+div.volumeList	table.bibTable td {
+	background-color:#ccc;
+}
+
+/* Resultate */
+ul.nav li a span.smallprint {
+	display:block;
+}
+
+	
+/* Footer */	
+#bibFooter {
+	font-size:75%;
+	background-color:#00802F;
+	color:#fff;
+}
+	#bibFooter a {
+		text-decoration:none;
+		padding:5px 10px;
+		display:inline-block;
+		color:#fff;
+		border-right:1px solid #fff;
+	}
+	#bibFooter a:hover, #bibFooter a:active {
+		background-color:#FFF;
+		color:#000;
+		-khtml-opacity: 0.8 /* sehr alte Versionen von Mozilla Firefox */
+		-moz-opacity: 0.8 /* alte Versionen von Mozilla Fireox */
+		-webkit-opacity: 0.8 /* alte Versionen von Webkit-Browsern */
+		filter: alpha(opacity=80)   /* ältere Versionen des Internet Explorers inklusive Version 7 */
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";  /* Internet Explorer Version 8 */
+		opacity: 0.8;                            /* Der Befehl mit Gültigkeit in aller gängigen Browsern in Zukunft? */
+	}
+	
+	
+/* Formular */
+label {
+	clear:both;
+	display:block;
+	margin-bottom:10px;
+}
+input, button {
+	float:left;
+	width:65%;
+	border:1px solid #666;
+	padding:10px;
+	vertical-align:top;
+	margin-bottom:5px;
+}
+	
+input[type="submit"], button {
+	width:20%;
+	float:right;
+}
+	button {
+		display:inline-block;
+	}
+input[type="submit"].login {
+	width:auto;
+	clear:both;
+	display:block;
+	float:none;
+}
+
+
+	label.formular input {
+		float:right;
+		width:50%;
+	}
+	label input[type="radio"] {
+		float:left;
+		width:auto;
+	}
+	label span.notice {
+		font-size:80%;
+		display:block;
+	}
+	
+span.mandatory {
+	color:#900;
+	font-weight:bold;
+	font-size:120%;
+}
+
+.error {
+	font-size:90%;
+	color:#900;
+}
+
+#loadNext {
+	width:50%;
+	padding:10px;
+	margin-left:auto;
+	margin-right:auto;
+	color:#050;
+}
+#loadNext:hover {
+	color:#000;
+}
+
+/* Select Box */
+div.selectcontainer {
+	position:relative;
+	width:100%;
+	margin-top:10px;
+	height:40px;
+	display:block;
+}
+	div.selectcontainer div {
+		position:absolute;
+		top:0px;
+		left:0px;
+		display:block;
+		border:1px solid #666;
+		padding:10px 1%;
+		width:98%;
+		background-color:#eee;
+		background-image:url('/common/images/action-arrow.png');
+		background-position:right;
+		background-repeat:no-repeat;
+	}
+	
+	select.filter {
+		position:absolute;
+		top:0px;
+		left:0px;
+		width:100%;
+		opacity:0.00001;
+		height:100%;
+	}

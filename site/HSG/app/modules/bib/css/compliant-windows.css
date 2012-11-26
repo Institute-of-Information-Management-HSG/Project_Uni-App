@@ -1,0 +1,9 @@
+﻿input[type="submit"] {
+	width:auto;
+	float:right;
+}
+
+input {
+	padding-top:2px;
+	border-color:#0F0;
+}

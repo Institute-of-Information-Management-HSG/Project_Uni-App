@@ -1,0 +1,23 @@
+﻿table.bibTable {
+	font-size:75%;
+	width:100%;
+}
+
+a.icon {
+	width:16px;
+	height:16px;
+}
+
+input {
+	padding:5px;
+}
+	input[type="submit"] {
+		width:60px;
+		float:right;
+	}
+
+
+div.trenner {
+	margin-top:10px;
+	margin-bottom:15px;
+}

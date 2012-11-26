@@ -1,0 +1,9 @@
+/* Tabs (e.g., Shuttle Schedule route pages) */
+ 
+#tabs li a {
+	display: block;
+	text-decoration: none;
+	min-width: 30px;
+	padding: 7px 10px 8px 10px;
+        font-size: 80%;
+}
