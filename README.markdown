@@ -6,13 +6,13 @@ The project Mobile Uni-App is a Swiss fork of the Kurogo-Mobile-Web project. We 
 Mobile Uni-App is based on Kurogo, which is a PHP framework for delivering high quality, data driven customizable content to a wide
 range of mobile devices. Our project currently includes the following modules:
 
+* Transportation (time schedule)
+* Library access (based on EDS / EbscoHost and ALEPH)
 * People directory (HTML parser)
 * News/RSS feeds
 * Event Calendar (HTML parser and .Net webserivce access)
-* Maps
+* Campus Maps
 * Emergency
-* Transportation (time schedule)
-* Library access (based on EDS / EbscoHost and ALEPH)
 
 This project has been carried out as part of the program "AAA/SWITCH – e-Infrastructure for 
 e-Science" lead by SWITCH, the Swiss National Research and Education Network, and was 
