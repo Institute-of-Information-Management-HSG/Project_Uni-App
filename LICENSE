@@ -1,9 +1,6 @@
 Project Mobile Uni-App is open source software. The project originally derived from the Kurogo Mobile Web and the MIT 
 Mobile Framework. It includes components from other open source projects which
 remain under their existing licenses, detailed in their respective source files.
-
-Copyright (c) 2010 Massachusetts Institute of Technology
-Copyright (c) 2011 Modo Labs, Inc
  
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -23,10 +20,12 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
+----------------------------------------------------------------------------------
 
-as
                   GNU LESSER GENERAL PUBLIC LICENSE
                        Version 2.1, February 1999
+
+----------------------------------------------------------------------------------
 
  Copyright (C) 1991, 1999 Free Software Foundation, Inc.
  51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
