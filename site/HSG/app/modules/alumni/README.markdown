@@ -2,7 +2,7 @@
 
 Link to an external mobile optimized website.
 
-# Credits
+## Credits
 
 Developer:
 Florian Ickelsheimer
