@@ -5,13 +5,13 @@ This module is used at http://www.app.unisg.ch and includes:
 * search the library catalogue using EbscoHost / EDS Discovery Service
 * communication with the HSG library system (ALEPH)
 
-# Credits
+## Credits
 
 Developer:
 Daniel Fiechter
 Felix Leu
 
-#Documentation
+## Documentation
 
 EBSCO EDS API:
 http://support.ebscohost.com/eit/ws_api_search_eds.php
