@@ -2,7 +2,7 @@
 
 Uses a .Net Webservice to create a personalized timetable including the lectures of the certain person.
 
-# Credits
+## Credits
 
 Developer:
 Florian Ickelsheimer
