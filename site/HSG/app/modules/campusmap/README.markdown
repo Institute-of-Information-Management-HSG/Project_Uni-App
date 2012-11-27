@@ -2,7 +2,7 @@
 
 This module is not in use anymore. The current Campus Map module is /map.
 
-# Credits
+## Credits
 
 Developer:
 Florian Ickelsheimer
