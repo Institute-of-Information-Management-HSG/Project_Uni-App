@@ -2,7 +2,7 @@
 
 Prases information from a website (currently hold lectures at the University of St.Gallen)
 
-# Credits
+## Credits
 
 Developer:
 Florian Ickelsheimer
