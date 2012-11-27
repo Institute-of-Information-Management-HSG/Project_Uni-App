@@ -6,7 +6,7 @@ https://github.com/arael/USIMobile_kurogo
 
 # Additional Requirements
 
-* pecl_http module 
+pecl_http module 
 
 #Credits
 Goran Josic
