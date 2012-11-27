@@ -3,7 +3,7 @@
 Parses the current the url for the current Cafeteria menu and links to the 
 according PDF file.
 
-# Credits
+## Credits
 
 Developer:
 Florian Ickelsheimer
