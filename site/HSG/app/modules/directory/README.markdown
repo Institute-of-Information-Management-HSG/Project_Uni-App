@@ -2,7 +2,7 @@
 
 Prases information from a website (staff directory)
 
-# Credits
+## Credits
 
 Developer:
 Florian Ickelsheimer
