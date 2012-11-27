@@ -2,7 +2,7 @@
 
 Parses information about the sports programm and links to the course registration.
 
-# Credits
+## Credits
 
 Developer:
 Florian Ickelsheimer
