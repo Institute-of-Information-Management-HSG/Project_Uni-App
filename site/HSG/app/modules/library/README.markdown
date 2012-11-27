@@ -6,7 +6,7 @@ It includes:
 
 The currently used library module is stored at /bib.
 
-# Credits
+## Credits
 
 Developer:
 Fabio Camichel
