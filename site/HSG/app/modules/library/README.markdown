@@ -1,7 +1,10 @@
-﻿# Project Mobile Uni-App: Old Library Module (not in use)
+# Project Mobile Uni-App: (Inactive) Library Module
 
-This is the outdated library module used at http://www.app.unisg.ch it includes:
+This is an outdated version of the library module. 
+It includes:
 * parsing general information from a website
+
+The currently used library module is stored at /bib.
 
 # Credits
 
