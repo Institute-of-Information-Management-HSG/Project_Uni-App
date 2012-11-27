@@ -1,7 +1,7 @@
-﻿# Project Mobile Uni-App: About Page
+# Project Mobile Uni-App: About Page
 
 
-# Credits
+## Credits
 
 Developer:
 Florian Ickelsheimer
