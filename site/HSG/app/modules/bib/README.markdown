@@ -1,6 +1,6 @@
 ﻿# Project Mobile Uni-App: Library Module
 
-This is the module used at http://www.app.unisg.ch it includes:
+This module is used at http://www.app.unisg.ch and includes:
 * parsing general information from a website
 * search the library catalogue using EbscoHost / EDS Discovery Service
 * communication with the HSG library system (ALEPH)
