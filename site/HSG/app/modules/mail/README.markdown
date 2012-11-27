@@ -2,7 +2,7 @@
 
 Links to external web email clients.
 
-# Credits
+## Credits
 
 Developer:
 Florian Ickelsheimer
