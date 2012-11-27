@@ -3,7 +3,7 @@
 Parses information from an external website to show the time shedule of the public transportation.
 Includes telephone numbers to call a taxi.
 
-# Credits
+## Credits
 
 Developer:
 Florian Ickelsheimer
