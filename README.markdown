@@ -26,6 +26,9 @@ For further information please visit:
 * http://www.switch.ch/de/aaa/projects/detail/UNISG.3
 * http://ccmb.iwi.unisg.ch/projects/project-mobile-uni-app/
 
+The project of our partner institute - the University of Lugano - is also availabe on github:
+* https://github.com/arael/USIMobile_kurogo
+
 
 ## Online Guide
 
