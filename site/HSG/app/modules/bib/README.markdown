@@ -7,9 +7,9 @@ This module is used at http://www.app.unisg.ch and includes:
 
 ## Credits
 
-Developer:
-Daniel Fiechter
-Felix Leu
+Developers:
+* Daniel Fiechter
+* Felix Leu
 
 ## Documentation
 
