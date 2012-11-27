@@ -3,7 +3,7 @@
 Shows a static picture on how to behave in emergency situations.
 Includes important telephone numbers.
 
-# Credits
+## Credits
 
 Developer:
 Florian Ickelsheimer
