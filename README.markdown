@@ -14,9 +14,6 @@ range of mobile devices. Our project currently includes the following modules:
 * Campus Maps
 * Emergency
 
-This project has been carried out as part of the program "AAA/SWITCH – e-Infrastructure for 
-e-Science" lead by SWITCH, the Swiss National Research and Education Network, and was 
-supported by funds from the State Secretariat for Education and Research.
 For further information please visit:
 
 * http://www.app.unisg.ch
