@@ -51,6 +51,10 @@ Kurogo is a PHP application. It is currently qualified for use with
 
 ## Credits
 
+This project has been carried out as part of the program “AAA/SWITCH – e-Infrastructure for e-Science” 
+lead by SWITCH, the Swiss National Research and Education Network, and was supported by funds from the 
+State Secretariat for Education and Research.
+
 Host Institute:
 * Institute of Information Management, University of St.Gallen (Prof. Dr. Andrea Back)
 
