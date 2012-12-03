@@ -10,3 +10,5 @@ pecl_http module
 
 #Credits
 Goran Josic
+
+This project has been carried out as part of the program “AAA/SWITCH – e-Infrastructure for e-Science” lead by SWITCH, the Swiss National Research and Education Network, and was supported by funds from the State Secretariat for Education and Research.
